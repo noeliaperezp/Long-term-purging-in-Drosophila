@@ -1,0 +1,2 @@
+time cc -o genrescNR_PB -w -O genrescNR_PB.c COMPILING_FILES/genlib.c COMPILING_FILES/ranlib.c COMPILING_FILES/linpack.c COMPILING_FILES/com.c -lm
+time cc -o genrescNR_PB_KimKyr -w -O genrescNR_PB_KimKyr.c COMPILING_FILES/genlib.c COMPILING_FILES/ranlib.c COMPILING_FILES/linpack.c COMPILING_FILES/com.c -lm
